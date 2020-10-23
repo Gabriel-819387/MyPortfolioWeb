@@ -29,3 +29,14 @@ ul {
  #robitshp{
      text-align: center;
  }
+
+ body {
+    max-width: 850px;
+    margin: auto;
+  }
+  body {
+    background-image: url('../images/hacker.jpg')
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+  }
