@@ -33,10 +33,11 @@ ul {
  body {
     max-width: 850px;
     margin: auto;
-  }
-  body {
-    background-image: url('../images/hacker.jpg')
+
     background-repeat: no-repeat;
-    background-attachment: fixed;  
-    background-size: cover;
+    background-size: 100%;
+/*Background Image*/
+    background-image: url("../hacker.jpg");
+    background-color:auto;
+    border-image-width: auto;
   }
